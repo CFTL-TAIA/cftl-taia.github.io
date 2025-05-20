@@ -6,7 +6,7 @@ Ce site collaboratif vise à partager des cas d’usage, des prompts, des retour
 ## 🚀 Accès au site
 
 Le site est disponible à l’adresse :  
-[https://michael-nocode.github.io/](https://michael-nocode.github.io/)
+[https://cftl-taia.github.io/   ](https://cftl-taia.github.io/)
 
 ## 📚 Structure du projet
 
@@ -22,8 +22,8 @@ Nous accueillons toutes les contributions : documentation, exemples, prompts, c
 ### 1. Fork & clone le dépôt
 
 ```bash
-git clone https://github.com/michael-nocode/michael-nocode.github.io.git
-cd michael-nocode.github.io
+git clone https://github.com/CFTL-TAIA/cftl-taia.github.io.git
+cd cftl-taia.github.io
 ```
 
 ### 2. Installe les dépendances
