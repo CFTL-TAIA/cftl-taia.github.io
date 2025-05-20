@@ -101,7 +101,7 @@ const config = {
           {
             to: '/docs/category/Tutoriel',
             sidebarId: 'tutorialSidebar',
-            label: 'Tutoriels JFTL 2025',
+            label: 'Tutoriel JFTL 2025',
             position: 'left',
           },
           {
