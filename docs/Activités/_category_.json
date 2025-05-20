@@ -1,0 +1,8 @@
+{
+  "label": "Activités",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Découvrez les cas d'usage lié aux activités de tests"
+  }
+}

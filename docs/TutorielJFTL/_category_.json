@@ -1,0 +1,8 @@
+{
+  "label": "Tutoriel",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "comment utiliser la documentation ?"
+  }
+}
