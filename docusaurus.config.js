@@ -13,7 +13,7 @@ const  projectName = "cftl-taia.github.io"; // Usually your repo name.
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TAIA - Tester avec l'IA',
+  title: 'TAIA - Tester avec l\'IA',
   tagline: 'Groupe de travail du CFTL sur l\'IA et le test',
   favicon: 'img/favicon.ico',
 
