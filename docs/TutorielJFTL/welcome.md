@@ -1,47 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-reaezdeza
-:::tip
-Ceci est une astuce mise en avant avec une couleur et une icône.
-
-test
-
-**bonjour**
-:::
 
 :::info
-Ceci est une astuce mise en avant avec une couleur et une icône.
+Bonjour et bienvenue sur la documentation du tutoriel des JFTL 2025
 
-test
+**"Cas d’usage de l’IA pour les tests: Exploration et mise en pratique"**
 
-**bonjour**
+
 :::
-
-:::warning
-Attention : ceci est un avertissement.
-:::
-
-:::danger
-Ceci est une astuce mise en avant avec une couleur et une icône.
-
-test
-
-**bonjour**
-:::
-
-:::note
-Ceci est une astuce mise en avant avec une couleur et une icône.
-
-test
-
-**bonjour**
-:::
-
-> **Astuce :** Ceci est un bloc de citation, tu peux y mettre du texte en gras, des liens, etc.
-
-``` 
-bonjour
-**fafae**
-```

@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # Comment créer une fiche cas d'usage ?
 
+Copier coller le dossier "Comment créer une fiche" contenant 
+- Template cas d'usage.md
+- Templace tache de prompt.md
+- \_category_.json
+
 ## Prompt pour mise en place d'un cas d'usage (inspiration)
 ``` 
 Conduis-toi comme un expert du domaine du test logiciel avec plusieurs années d’expérience et certifié ISTQB fondation.

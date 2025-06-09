@@ -5,24 +5,33 @@ sidebar_position: 2
 # Fiche cas d'usage
 Utilisation de l’IA pour l’Analyse de la Qualité des User Stories
 
+---
+## Fiche d'identité du cas d'usage
+**Auteurs** : Sarah Leroy & ...
+
+---
 ## Description du cas d'usage
 Assistance par IA à l’analyse de la qualité des user stories selon des critères standardisés (INVEST, BABOK, IEEE830, IREB, etc.) dans un contexte Agile Scrum.
 
+---
 ## Problématique(s) traitée(s) 
 - Difficulté à garantir la qualité homogène des user stories rédigées par des équipes pluridisciplinaires.
 - Risque de non-conformité aux standards d’écriture des exigences (INVEST, BABOK, etc.), entraînant des ambiguïtés, des oublis ou des user stories non testables.
 - Charge de relecture et d’analyse manuelle importante pour les Product Owners, Scrum Masters et testeurs.
 
+---
 ## Groupe d’activité de test ISTQB
 - Analyse et conception des tests
 - Gestion des exigences
 - Assurance qualité des artefacts de test
 
+---
 ## Types de tests
 - Tests d’acceptation
 - Tests fonctionnels
 - Tests de validation des exigences
 
+---
 ## Métier / Profil
 - Développeurs
 - Testeurs
@@ -31,6 +40,7 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
 - Scrum Masters
 - Ingénieur d’exigence
 
+---
 ## Bénéfices attendus / constatés 
 - Amélioration de la qualité et de la clarté des user stories
 - Réduction du temps de revue et de correction des user stories
@@ -38,6 +48,7 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
 - Accélération du cycle de développement grâce à des user stories prêtes à être développées et testées
 - Standardisation de l’analyse grâce à l’application systématique de critères objectifs
 
+---
 ## Evaluation du ROI (KPI) 
 - Pourcentage de user stories conformes dès la première revue
 - Nombre de corrections ou d’itérations nécessaires par user story
@@ -45,12 +56,14 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
 - Nombre de défauts détectés en phase de test liés à des exigences mal rédigées
 - Satisfaction des équipes sur la qualité des user stories
 
+---
 ## Risques
 - Dépendance excessive à l’outil IA, au détriment de l’esprit critique humain
 - Résultats biaisés si le prompt ou les critères sont mal paramétrés
 - Difficulté d’adaptation aux contextes spécifiques ou aux exceptions métier
 - Confidentialité des données si l’IA traite des user stories sensibles
 
+---
 ## Ressources 
 - Outil d’IA générative (type LLM)
 - Modèles de prompts adaptés aux différents profils et critères
@@ -62,6 +75,7 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
   - Documentation Agile (Scrum Guide, guides sur INVEST, etc.)
 - Guides de bonnes pratiques sur la rédaction des user stories
 
+---
 ## Références
 
 [Fiche prompt](./Fiche%20prompt.md)

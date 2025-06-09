@@ -31,6 +31,14 @@ function HomepageHeader() {
             Accéder aux cas d'usages
           </Link>
         </div>
+        <br></br>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/category/Tutoriel">
+            TUTORIEL JFTL 2025
+          </Link>
+        </div>
       </div>
     </header>
   );

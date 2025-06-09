@@ -5,27 +5,32 @@ sidebar_position: 3
 # Fiche prompt
 Analyser une user story
 
+---
 ## Description courte de la tâche​
 Analyser une user story en évaluant le respect de critères qualité définis
 
+---
 ## Description détaillée de la tâche
 L’analyse de la user story se base sur des critères qualité définis.
 Pour chaque critère, il est indiqué s’il est respecté (oui, partiellement, non) avec une explication.
 
+---
 ## Prérequis
 - Choix du rôle assigné au LLM
 - Choix des critères qualité à vérifier
 
+---
 ## Entrée
 Une User Story au format texte
 
+---
 ## Sortie
 Tableau avec les colonnes suivantes : 
 - Critère
 - Respect
 - Explication
 
-
+---
 ## PROMPT
 Le prompt proposé est paramétrable avec 2 éléments :
 - Le rôle assigné au LLM : [variable1]
