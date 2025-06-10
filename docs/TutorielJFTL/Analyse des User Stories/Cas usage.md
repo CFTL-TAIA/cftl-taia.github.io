@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Fiche cas d'usage
+# Cas d'usage
 Utilisation de l’IA pour l’Analyse de la Qualité des User Stories
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : Sarah Leroy & ...
+**Auteurs** : Sarah Leroy (Kereval) & ...
 
 ---
 ## Description du cas d'usage

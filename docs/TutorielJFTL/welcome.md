@@ -2,6 +2,7 @@
 sidebar_position: 0
 ---
 
+# Welcome
 
 :::info
 Bonjour et bienvenue sur la documentation du tutoriel des JFTL 2025

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Fiche prompt Karate
+# Prompt Karate
 Generer des tests API automatisé avec KARATE avec un Swagger
 
 ---
@@ -41,7 +41,7 @@ Generer des tests API automatisé avec KARATE avec un Swagger
 - Les features Karate
 
 ---
-## Exemple entrée / Sortie
+## Exemple entrée / sortie
 
 ### Entrée
 
@@ -52,7 +52,7 @@ Generer des tests API automatisé avec KARATE avec un Swagger
 ...
 
 ---
-## PROMPT
+## Prompt
 
 ---
 ### ETAPE 1

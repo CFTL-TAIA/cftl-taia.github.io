@@ -93,7 +93,7 @@ const config = {
             label: 'Documentation',
           },          
           {
-            to: '/docs/category/Activités',
+            to: '/docs/category/activités-de-tests',
             sidebarId: 'tutorialSidebar',
             label: 'Activités de test',
             position: 'left',
@@ -125,12 +125,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/Docusaurus/intro',
+                label: 'Tutorial Docusaurus',
+                to: '/docs/Documentation/Docusaurus/intro',
               },
             ],
           },
-          {
+          /*{
             title: 'Community',
             items: [
               {
@@ -146,7 +146,7 @@ const config = {
                 href: 'https://x.com/docusaurus',
               },
             ],
-          },
+          },*/
           {
             title: 'More',
             items: [
@@ -158,10 +158,14 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/'+organizationName+'/'+projectName,
               },
+              {
+                label: 'Licence CC-BY-SA-4.0',
+                href: 'https://github.com/'+organizationName+'/'+projectName+'?tab=CC-BY-SA-4.0-1-ov-file#readme',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CFTL - Groupe de Travail du test avec l'IA (TAIA), Généré avec Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CFTL - Groupe de Travail "Tester avec l’Intelligence Artificielle" (TAIA), Généré avec Docusaurus. Licence CC-BY-SA-4.0`,
       },
       prism: {
         theme: prismThemes.github,

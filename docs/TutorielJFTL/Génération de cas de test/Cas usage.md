@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# Fiche cas d'usage
+# Cas d'usage
 Utiliser l'IA générative pour transformer automatiquement des User Stories exprimées en langage naturel en cas d'utilisation structurés (use cases), afin d'améliorer la compréhension fonctionnelle et la couverture des scénarios métier.
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : David James & Etienne Dufour
+**Auteurs** : David James (AXA France) & Etienne Dufour (AXA France)
 
 ---
 ### Problématique(s) traitée(s) 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Template tâche de prompt
+# Template Prompt
 Utiliser ce template pour créer une nouvelle tâche de prompt
 
 ---
@@ -43,10 +43,10 @@ Ex : type de LLM (modèle multimodal, vision, modèle de raisonnement, …), bas
 *Nature des données de sortie, format des données (tableau, gherkin, JSON, …)​*
 
 ---
-## Exemple entrée / Sortie
+## Exemple entrée / sortie
 
 ---
-## PROMPT
+## Prompt
 
 ```
 

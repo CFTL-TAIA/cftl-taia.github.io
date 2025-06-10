@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Fiche prompt Analytique
+# Prompt Analytique
 Créer des cas de tests à partir d'une User Story
 
 ---
@@ -58,7 +58,7 @@ Créer des cas de tests à partir d'une User Story
 - Tableau
 
 ---
-## Exemple entrée / Sortie
+## Exemple entrée / sortie
 
 ### Entrée
 
@@ -99,7 +99,7 @@ Si on tente d’insérer une cinquième image alors afficher le message d’erre
 |FUN_US3_001| Publier une annonce avec tous les champs obligatoires valides | Utilisateur connecté | Remplir Category valide, Title valide (5-100 chars), Description valide (≥3, ≤4994 chars), Valider | L’annonce est publiée avec succès |
 
 ---
-## PROMPT
+## Prompt
 
 ```
 Tu vas agir en tant qu'expert IT expérimenté dans une équipe Agile, avec une approche critique, pragmatique et disruptive. Ton analyse et ta production s'appuieront sur une connaissance approfondie et une application rigoureuse des cadres et normes suivants :

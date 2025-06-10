@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# Fiche cas d'usage 
+# Cas d'usage 
 <span style={{color: "red"}}>**A RELIRE**</span>
 
 Utilisation d’une IA générative pour produire automatiquement des scripts de test API (en langage Gherkin avec Karate) à partir de la documentation Swagger d’une API RESTful.
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : Njila Pierick & Nabil Idhammou
+**Auteurs** : Njila Pierick (Zenity) & Nabil Idhammou (Onepoint)
 
 ---
 ## Problématique(s) traitée(s)  

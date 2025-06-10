@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Fiche prompt
+# Prompt
 Analyser une user story
 
 ---
@@ -31,7 +31,8 @@ Tableau avec les colonnes suivantes :
 - Explication
 
 ---
-## PROMPT
+## Prompt
+
 Le prompt proposé est paramétrable avec 2 éléments :
 - Le rôle assigné au LLM : [variable1]
 - Les critères qualité à vérifier : [variable2]
