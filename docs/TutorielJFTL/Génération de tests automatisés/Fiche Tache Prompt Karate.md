@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Fiche prompt Analytique
+# Fiche prompt Karate
 Generer des tests API automatisé avec KARATE avec un Swagger
 
 ---
@@ -114,6 +114,32 @@ Do not include any introductory or concluding comments. Just return the Gherkin 
 ### ETAPE 2
 
 ```
+Your task now is to generate comprehensive Karate feature files based on the previously defined Gherkin-style API test cases.
+Requirements:
+Output must be precise, technically accurate, and production-ready.
+
+Each feature file must have a clear, descriptive title and logically structured scenarios.
+
+Implement a risk-based testing approach, prioritizing high-impact API functionality.
+
+Follow best practices from the ISO/IEC/IEEE 29119 standards as guidance for quality, structure, and automation design:
+
+Standard Focus Automation Relevance
+29119-1 Concepts Foundational context for test activities
+29119-2 Processes Embedding automation in structured workflows
+29119-3 Documentation Structured, reusable, automation-friendly docs
+29119-4 Techniques Criteria for what and how to automate
+29119-5 Keyword-Driven Testing Framework-oriented automation design
+
+Instructions:
+Do not include any commentary, explanation, or formatting outside of the Karate feature syntax.
+
+Only return the Karate feature files, starting directly with the Feature: line.
+```
+---
+### ETAPE 3
+
+```
 Your task now is to generate a complete test automation project using Karate, based on the previously defined Karate feature files.
 Requirements:
 The output must be precise, technically accurate, and ready for execution in a production-grade environment.
@@ -137,32 +163,5 @@ Instructions:
 Do not include any commentary, explanation, or descriptive text.
 
 Only return the full Karate test automation project, including folder structure, files, and all required configurations.
-
-```
----
-### ETAPE 3
-
-```
-Your task now is to generate comprehensive Karate feature files based on the previously defined Gherkin-style API test cases.
-Requirements:
-Output must be precise, technically accurate, and production-ready.
-
-Each feature file must have a clear, descriptive title and logically structured scenarios.
-
-Implement a risk-based testing approach, prioritizing high-impact API functionality.
-
-Follow best practices from the ISO/IEC/IEEE 29119 standards as guidance for quality, structure, and automation design:
-
-Standard Focus Automation Relevance
-29119-1 Concepts Foundational context for test activities
-29119-2 Processes Embedding automation in structured workflows
-29119-3 Documentation Structured, reusable, automation-friendly docs
-29119-4 Techniques Criteria for what and how to automate
-29119-5 Keyword-Driven Testing Framework-oriented automation design
-
-Instructions:
-Do not include any commentary, explanation, or formatting outside of the Karate feature syntax.
-
-Only return the Karate feature files, starting directly with the Feature: line.
 
 ```

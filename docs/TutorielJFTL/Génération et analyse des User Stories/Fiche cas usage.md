@@ -78,4 +78,3 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
 ---
 ## Références
 
-[Fiche prompt](./Fiche%20prompt.md)

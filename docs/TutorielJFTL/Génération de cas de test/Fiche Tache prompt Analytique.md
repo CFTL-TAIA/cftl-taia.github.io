@@ -49,7 +49,8 @@ Créer des cas de tests à partir d'une User Story
 
 ---
 ## Recommandation d'usage
-- Exécuter le prompt et lorsque le LLM vous indique être prêt à recevoir la User Story, lui fournir celle-ci
+- Exécuter le prompt et lorsque le LLM vous indique être prêt à recevoir la User Story, lui fournir celle-ci.
+
 **N.B.** : une User Story avec critères d’acceptation déjà présents permet d’améliorer la pertinence des résultats obtenus
 
 ---
