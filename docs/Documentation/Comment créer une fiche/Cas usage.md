@@ -5,8 +5,9 @@ sidebar_position: 2
 # Template cas d'usage
 Utiliser ce template pour créer un nouveau cas d'usage
 
-# TITRE
+## TITRE
 Créer un titre explicit avec un verbe à l'infinitif + complément précis
+
 ---
 ## Problématique(s) traitée(s) 
 
