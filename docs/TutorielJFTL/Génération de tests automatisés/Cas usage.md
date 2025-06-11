@@ -9,7 +9,7 @@ Utilisation d’une IA générative pour produire automatiquement des scripts de
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : Njila Pierick (Zenity) & Nabil Idhammou (Onepoint)
+**Auteurs** : Njila Pierick (Zenity) - Nabil Idhammou (Onepoint)
 
 ---
 ## Problématique(s) traitée(s)  

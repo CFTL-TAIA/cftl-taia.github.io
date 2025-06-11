@@ -7,7 +7,7 @@ Utilisation de l’IA pour l’Analyse de la Qualité des User Stories
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : Sarah Leroy (Kereval) & ...
+**Auteurs** : Sarah Leroy (Kereval) - Caroline Distriquin (CEA) - Florent Vaution (Ouest-France)
 
 ---
 ## Description du cas d'usage

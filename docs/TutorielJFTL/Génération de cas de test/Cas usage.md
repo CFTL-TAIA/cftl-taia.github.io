@@ -7,7 +7,7 @@ Utiliser l'IA générative pour transformer automatiquement des User Stories exp
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : David James (AXA France) & Etienne Dufour (AXA France)
+**Auteurs** : David James (AXA France) - Etienne Dufour (AXA France)
 
 ---
 ### Problématique(s) traitée(s) 
