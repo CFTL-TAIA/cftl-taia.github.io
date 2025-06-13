@@ -19,15 +19,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/documentation">
-            Accéder à la documentation
+            to="/docs/category/Tutoriel">
+            TUTORIEL JFTL 2025
           </Link>
         </div>
         <br></br>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/activités-de-tests">
+            to="/docs/category/cas-dusage">
             Accéder aux cas d'usages
           </Link>
         </div>
@@ -35,8 +35,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/Tutoriel">
-            TUTORIEL JFTL 2025
+            to="/docs/category/documentation">
+            Accéder à la documentation
           </Link>
         </div>
       </div>

@@ -19,6 +19,15 @@ Indiquer une description rapide de la tâche
 Donner une description plus détaillée
 
 ---
+## Information du document
+
+#### Version X.0
+#### Date : XX/XX/XXXX
+#### Etat : XXXX
+#### Concepteurs : ...
+#### Evaluateurs : ...
+
+---
 ### Méthodes de conception possibles
 ...
 
@@ -52,3 +61,25 @@ Ex : type de LLM (modèle multimodal, vision, modèle de raisonnement, …), bas
 
 
 ```
+
+---
+## Evaluations
+
+### Méthode d’évaluation​
+
+- ...
+
+### Métriques utilisées
+
+- ...
+
+### Score de confiance (sur la qualité du résultat)
+
+- ...
+
+### Résultats (éventuellement par LLM)​
+
+---
+## Limitations connues​
+
+- ...

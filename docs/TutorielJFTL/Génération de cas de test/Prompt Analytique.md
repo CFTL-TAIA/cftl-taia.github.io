@@ -40,6 +40,15 @@ Créer des cas de tests à partir d'une User Story
 - résultats attendus
 
 ---
+## Information du document
+
+#### Version 1.0
+#### Date : 03/06/2025
+#### Etat : Validé
+#### Concepteurs : David JAMES (AXA France)
+#### Evaluateurs : David JAMES (AXA France), Etienne DUFOUR (AXA France), Jean-Christophe POUTET (Groupe La Poste), Stanislas SELLE (Groupe La Poste)
+
+---
 ## Prérequis
 - Pas de prérequis particulier
 
@@ -183,3 +192,25 @@ Après avoir exécuté ce prompt, attends la User Story et ses critères d'accep
 Confirme que tu es prêt à recevoir la User Story et à procéder à l'analyse et à la génération des cas de test selon les instructions ci-dessus.
 
 ```
+
+---
+## Evaluations
+
+### Méthode d’évaluation​
+
+- Tests manuels sur 4 LLM et 5 itérations par LLM
+
+### Métriques utilisées
+
+- Nombre de cas de tests fonctionnels générés par rapport au nombre de cas de test fonctionnels attendus (établis par un testeur)
+
+### Score de confiance (sur la qualité du résultat)
+
+Score de confiance variable suivant les LLM, cf. ci-dessous
+
+### Résultats (éventuellement par LLM)​
+
+---
+## Limitations connues​
+
+- Avec certains LLM, la description indiquée est incohérente par rapport à l’attendu.

@@ -87,23 +87,23 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },          
-          {
-            to: '/docs/category/activités-de-tests',
-            sidebarId: 'tutorialSidebar',
-            label: 'Activités de test',
-            position: 'left',
-          },
-          {
             to: '/docs/category/Tutoriel',
             sidebarId: 'tutorialSidebar',
             label: 'Tutoriel JFTL 2025',
             position: 'left',
           },
+          {
+            to: '/docs/category/cas-dusage',
+            sidebarId: 'tutorialSidebar',
+            label: 'Cas d\'usages',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Documentation',
+          },      
           {
             sidebarId: 'tutorialSidebar',
             label: 'Enquête IA 2024',
@@ -160,7 +160,7 @@ const config = {
               },
               {
                 label: 'Licence CC-BY-SA-4.0',
-                href: 'https://github.com/'+organizationName+'/'+projectName+'?tab=CC-BY-SA-4.0-1-ov-file#readme',
+                href: 'https://creativecommons.org/licenses/by-sa/4.0/deed.fr',
               },
             ],
           },

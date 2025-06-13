@@ -6,6 +6,7 @@ sidebar_position: 1
 
 ## EPIC : Gestion des Annonces
 
+```
 ## US3 - Publier une annonce
 
 En tant qu’utilisateur connecté,
@@ -36,4 +37,4 @@ Le champ « Description » devient obligatoire si les champs Category et Title s
 Si l’image n’est pas au format .png, .gif, .jpg ou .jpeg alors afficher le message d’erreur « You can only upload: image/png, image/gif, image/jpg, image/jpeg ».
 Si la taille de l’image dépasse 4096kb alors afficher le message d’erreur « exceeds maximum allowed size of 4 MB ».
 Si on tente d’insérer une cinquième image alors afficher le message d’erreur « You cannot upload more images. Image limit reached ! ».
-
+```
