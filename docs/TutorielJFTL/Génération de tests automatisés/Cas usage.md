@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 
 # Cas d'usage 
-<span style={{color: "red"}}>**A RELIRE**</span>
+<span style={{color: "red"}}>**RELU ET COMPLETE*</span>
 
-Utilisation d’une IA générative pour produire automatiquement des scripts de test API (en langage Gherkin avec Karate) à partir de la documentation Swagger d’une API RESTful.
+Utilisation d’une IA générative pour produire automatiquement des scripts de test API (en langage Gherkin dans un projet fait avec Karate) à partir de la documentation Swagger d’une API RESTful ou d'une image GraphQL.
 
 ---
 ## Fiche d'identité du cas d'usage
@@ -34,8 +34,9 @@ Utilisation d’une IA générative pour produire automatiquement des scripts de
 
 ---
 ## Métier / Profil  
-- Testeurs automatisés  
-- QA Engineers / SDETs  
+- Developpeurs de tests automatisés  
+- QA Engineers / SDETs
+- QA Automation Engineers
 - Développeurs ayant une responsabilité QA  
 - Product Owners / Analystes techniques avec une approche BDD  
 - Equipes agiles (Scrum, Kanban, DevOps)
@@ -70,6 +71,7 @@ Utilisation d’une IA générative pour produire automatiquement des scripts de
 - Manque de contextualisation métier (cas limites, données de test spécifiques).  
 - Risque d’utilisation "boîte noire" sans compréhension du fonctionnement des tests.  
 - Problème de maintenance si l’IA génère du code difficile à adapter à long terme.
+- Un minimum de connaissance en développement reste necessaire pour corriger d'éventuelles erreurs lors de l'exécution dans l'IDE(es. gestion des dépendances et plugins, erreurs diverses.. ect)
 
 ---
 ## Ressources  
