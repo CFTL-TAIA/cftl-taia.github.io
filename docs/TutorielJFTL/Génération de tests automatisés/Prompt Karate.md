@@ -3,27 +3,28 @@ sidebar_position: 2
 ---
 
 # Prompt Karate
-Generer des tests API automatisé avec KARATE avec un Swagger
+Generer des tests API automatisés avec KARATE en prenant comme données en entrée un Swagger
 
 ---
 ## Description courte de la tâche​
-- ...
+- Rédiger des cas de test d'API complets dans la syntaxe Gherkin, sur la base de la spécification Swagger.
 
 ---
 ## Description détaillée de la tâche
 ### Eléments analysés
-- ...
+- Un Swagger
 
 ### Méthodes de conception possibles
 - ...
 
 ### Structure des cas de test
 
-- ...
+- Formalisme Gherkin( langage structuré et lisible par l'homme)
 
 ---
 ## Prérequis
-- ...
+- Avoir à disposition le Swagger (ou l'image GraphQL)
+- Documentation du Swagger à jour
 
 ---
 ## Entrée
@@ -32,24 +33,168 @@ Generer des tests API automatisé avec KARATE avec un Swagger
 
 ---
 ## Recommandation d'usage
-- ...
+- Tests d'API indépendants de l'interface utilisateur
+- Une vérification humaine reste nécessaire 
 
 ---
 ## Sortie
 - Des tests API en Gherkin
-- Un projet complet karate à partir de l'API et des tests en Gherkin
 - Les features Karate
+- Un projet complet karate à partir de l'API et des tests en Gherkin
+
 
 ---
 ## Exemple entrée / sortie
 
 ### Entrée
 
-...
+(https://petstore.swagger.io/)
 
 ### Sortie 
 
-...
+karate-api-tests/
+├── pom.xml
+├── src/
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── examples/
+│   │   │       └── runners/
+│   │   │           └── TestRunner.java
+│   │   └── resources/
+│   │       ├── features/
+│   │       │   ├── pet/
+│   │       │   │   ├── PetCrud.feature
+│   │       │   │   └── PetErrorsAndSearch.feature
+│   │       │   ├── store/
+│   │       │   │   └── StoreOrder.feature
+│   │       │   └── user/
+│   │       │       └── UserAccount.feature
+│   │       └── karate-config.js
+
+== POM ==
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.example</groupId>
+  <artifactId>karate-api-tests</artifactId>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
+
+  <name>karate-api-tests</name>
+
+  <properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+    <karate.version>1.4.1</karate.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.intuit.karate</groupId>
+      <artifactId>karate-junit5</artifactId>
+      <version>${karate.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>7.14.0</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>gherkin</artifactId>
+      <version>26.0.0</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.1.2</version>
+        <configuration>
+          <includes>
+            <include>**/TestRunner.java</include>
+          </includes>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
+
+== Karate-config.js ==
+
+function fn() {
+  var config = {
+    baseUrl: 'https://petstore.swagger.io/v2'
+  };
+  karate.configure('connectTimeout', 5000);
+  karate.configure('readTimeout', 10000);
+  return config;
+}
+== TestRunner.java ==
+package examples.runners;
+
+import com.intuit.karate.junit5.Karate;
+
+public class TestRunner {
+
+    @Karate.Test
+    Karate testAll() {
+        return Karate.run("classpath:features/pet",
+                          "classpath:features/store",
+                          "classpath:features/user")
+                      .relativeTo(getClass());
+    }
+}
+
+== Feature ==
+Feature: Pet API - CRUD Operations for High-Impact Functionality
+
+Background:
+  * url baseUrl
+  * def petId = 1001
+
+Scenario: Create a new pet with valid data
+  Given request { id: #(petId), name: 'Fluffy', status: 'available' }
+  When method POST
+  And path '/pet'
+  Then status 200
+  And match response == { id: #(petId), name: 'Fluffy', status: 'available' }
+
+Scenario: Retrieve pet by ID after creation
+  Given path '/pet', petId
+  When method GET
+  Then status 200
+  And match response.id == petId
+  And match response.name == 'Fluffy'
+  And match response.status == 'available'
+
+Scenario: Update an existing pet's status
+  Given request { id: #(petId), name: 'Fluffy', status: 'sold' }
+  When method PUT
+  And path '/pet'
+  Then status 200
+  And match response.id == petId
+  And match response.status == 'sold'
+
+Scenario: Delete an existing pet
+  Given path '/pet', petId
+  When method DELETE
+  Then status 200
+
+Scenario: Attempt to retrieve a deleted pet
+  Given path '/pet', petId
+  When method GET
+  Then status 404
+
 
 ---
 ## Prompt
