@@ -27,11 +27,15 @@ Il est organisé par le groupe de travail « Tester avec l'IA générative » du
 Toutes les ressources du tutoriel sont disponibles ici :
 
 👉 **[Lien vers le support de présentation (PDF)](/file/TUTORIEL%20-%20TAIA%20-%20Tester%20avec%20IA%20-%2016052025.pdf)**  
-👉 [Lien vers la user story utilisée](/docs/TutorielJFTL/US%20Tutoriel.md)  
+
+#### Les ateliers
 👉 [Lien vers le premier atelier : Analyse des user stories](/docs/TutorielJFTL/Analyse%20des%20User%20Stories/Cas%20usage.md)  
 👉 [Lien vers le second atelier : Génération de cas de tests](/docs/TutorielJFTL/Génération%20de%20cas%20de%20test/Cas%20usage.md)   
 👉 [Lien vers le troisième atelier : Génération de tests API automatisés](/docs/TutorielJFTL/Génération%20de%20tests%20automatisés/Cas%20usage.md)
+👉 [Lien vers la user story utilisée](/docs/TutorielJFTL/US%20Tutoriel.md)  
 
+#### Les contributeurs TAIA
+👉 [Ils ont contribués à TAIA](/docs/Cas%20usage/contributors.md)  
 
 N’hésitez pas à explorer ces documents pendant et après la session !
 
