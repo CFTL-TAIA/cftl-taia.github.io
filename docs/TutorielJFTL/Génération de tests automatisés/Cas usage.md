@@ -3,7 +3,6 @@ sidebar_position: 1
 ---
 
 # Cas d'usage 
-<span style={{color: "red"}}>**RELU ET COMPLETE*</span>
 
 Utilisation d’une IA générative pour produire automatiquement des scripts de test API (en langage Gherkin dans un projet fait avec Karate) à partir de la documentation Swagger d’une API RESTful ou d'une image GraphQL.
 

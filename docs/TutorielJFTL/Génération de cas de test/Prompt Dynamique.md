@@ -62,6 +62,15 @@ ou concis (uniquement les résultats de l’étape 11 : liste consolidée des ti
 - titres uniquement
 
 ---
+## Information du document
+
+#### Version 1.0
+#### Date : 04/06/2025
+#### Etat : Validé
+#### Concepteurs : Etienne Dufour (AXA France)
+#### Evaluateurs : Evaluation par LLM (LLM as a judge)
+
+---
 ## Prérequis
 - Pas de prérequis particulier
 
@@ -219,3 +228,31 @@ Format de sortie : affiche les résultats sous la forme d’un tableau à 2 colo
 Pour finir, indique dans un tableau markdown le nombre de tests fonctionnels, non fonctionnels et le total.
 
 ```
+
+---
+## Evaluations
+
+### Méthode d’évaluation​
+
+Evaluation en plusieurs temps : 
+- tests en volume quantitatifs
+- tests en volume (calcul de la couverture de test par rapport à des cas de test attendus préparés). Evaluation manuelle
+- Même vérification mais par un LLM évaluateur
+- Evaluation multi instance (5 itération par LLM)
+- Mesure du CO2 consommé
+
+
+### Métriques utilisées
+
+- % de couverture
+
+### Score de confiance (sur la qualité du résultat)
+
+- Confiance trés haute.
+
+### Résultats (éventuellement par LLM)​
+![Evaluation prompt analytique](/img/Evaluation_Prompt_Dynamique.png)
+---
+## Limitations connues​
+
+- Variation des résultats selon le LLM utilisé.

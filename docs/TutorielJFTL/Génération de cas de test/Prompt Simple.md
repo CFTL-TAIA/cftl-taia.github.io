@@ -28,6 +28,15 @@ Eléments analysés :
 - titres uniquement
 
 ---
+## Information du document
+
+#### Version 1.0
+#### Date : 04/06/2025
+#### Etat : Validé
+#### Concepteurs : Etienne Dufour (AXA France)
+#### Evaluateurs : Evaluation par LLM (LLM as a judge)
+
+---
 ## Prérequis
 - Pas de prérequis particulier
 
@@ -92,3 +101,29 @@ Exemples :
 Fournis les résultats sous forme d’un tableau : colonne 1 = compteur de ligne, colonne 2 = titre de cas de test.
 N’ajoute pas de commentaires avant et après tes réponses.
 ```
+
+---
+## Evaluations
+
+### Méthode d’évaluation​
+
+Evaluation en plusieurs temps : 
+- tests en volume quantitatifs
+- tests en volume (calcul de la couverture de test par rapport à des cas de test attendus préparés). 
+- Evaluation manuelle
+
+
+### Métriques utilisées
+
+- % de couverture
+
+### Score de confiance (sur la qualité du résultat)
+
+- Confiance trés haute.
+
+### Résultats (éventuellement par LLM)​
+- Taux de couverture faible (de 32 à  60 % selon les LLMs).
+---
+## Limitations connues​
+
+- Résultats peu concluants. Couverture faible. Ce prompt a été abandonné au profit de prompts plus structurés.

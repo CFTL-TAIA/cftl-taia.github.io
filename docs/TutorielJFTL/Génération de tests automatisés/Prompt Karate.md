@@ -20,7 +20,15 @@ Generer des tests API automatisés avec KARATE en prenant comme données en entr
 ### Structure des cas de test
 
 - Formalisme Gherkin( langage structuré et lisible par l'homme)
+- 
+---
+## Information du document
 
+#### Version 1.0
+#### Date : 03/06/2025
+#### Etat : Validé
+#### Concepteurs : Pierick Njila (Zenity), Nabil Idhammou (Onepoint)
+#### Evaluateurs : Alain Ribault (Kereval), Michael Granier (Nocode Testing)
 ---
 ## Prérequis
 - Avoir à disposition le Swagger (ou l'image GraphQL)
@@ -52,6 +60,7 @@ Generer des tests API automatisés avec KARATE en prenant comme données en entr
 
 ### Sortie 
 
+```
 karate-api-tests/
 ├── pom.xml
 ├── src/
@@ -95,7 +104,7 @@ karate-api-tests/
     <dependency>
       <groupId>com.intuit.karate</groupId>
       <artifactId>karate-junit5</artifactId>
-      <version>${karate.version}</version>
+      <version>$\{karate.version\}</version>
       <scope>test</scope>
     </dependency>
 
@@ -134,7 +143,7 @@ karate-api-tests/
 function fn() {
   var config = {
     baseUrl: 'https://petstore.swagger.io/v2'
-  };
+  \};
   karate.configure('connectTimeout', 5000);
   karate.configure('readTimeout', 10000);
   return config;
@@ -142,7 +151,7 @@ function fn() {
 == TestRunner.java ==
 package examples.runners;
 
-import com.intuit.karate.junit5.Karate;
+ import com.intuit.karate.junit5.Karate;
 
 public class TestRunner {
 
@@ -155,6 +164,9 @@ public class TestRunner {
     }
 }
 
+
+```
+
 == Feature ==
 Feature: Pet API - CRUD Operations for High-Impact Functionality
 
@@ -163,11 +175,11 @@ Background:
   * def petId = 1001
 
 Scenario: Create a new pet with valid data
-  Given request { id: #(petId), name: 'Fluffy', status: 'available' }
+  Given request \{ id: #(petId), name: 'Fluffy', status: 'available' \}
   When method POST
   And path '/pet'
   Then status 200
-  And match response == { id: #(petId), name: 'Fluffy', status: 'available' }
+  And match response == \{ id: #(petId), name: 'Fluffy', status: 'available' \}
 
 Scenario: Retrieve pet by ID after creation
   Given path '/pet', petId
@@ -178,7 +190,7 @@ Scenario: Retrieve pet by ID after creation
   And match response.status == 'available'
 
 Scenario: Update an existing pet's status
-  Given request { id: #(petId), name: 'Fluffy', status: 'sold' }
+  Given request \{ id: #(petId), name: 'Fluffy', status: 'sold' \}
   When method PUT
   And path '/pet'
   Then status 200

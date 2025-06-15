@@ -46,7 +46,7 @@ Créer des cas de tests à partir d'une User Story
 #### Date : 03/06/2025
 #### Etat : Validé
 #### Concepteurs : David JAMES (AXA France)
-#### Evaluateurs : David JAMES (AXA France), Etienne DUFOUR (AXA France), Jean-Christophe POUTET (Groupe La Poste), Stanislas SELLE (Groupe La Poste)
+#### Evaluateurs : David JAMES (AXA France), Etienne DUFOUR (AXA France), Jean-Christophe POUTET (Groupe La Poste), Stanislas SELLE (Groupe La Poste), Michael Granier (Nocode Testing)
 
 ---
 ## Prérequis
@@ -209,7 +209,7 @@ Confirme que tu es prêt à recevoir la User Story et à procéder à l'analyse 
 Score de confiance variable suivant les LLM, cf. ci-dessous
 
 ### Résultats (éventuellement par LLM)​
-
+![Evaluation prompt analytique](/img/Evaluation_Prompt_Analytique.png)
 ---
 ## Limitations connues​
 

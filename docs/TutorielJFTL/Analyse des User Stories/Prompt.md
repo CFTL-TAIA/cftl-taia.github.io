@@ -13,6 +13,14 @@ Analyser une user story en évaluant le respect de critères qualité définis
 ## Description détaillée de la tâche
 L’analyse de la user story se base sur des critères qualité définis.
 Pour chaque critère, il est indiqué s’il est respecté (oui, partiellement, non) avec une explication.
+---
+## Information du document
+
+#### Version 1.0
+#### Date : 03/06/2025
+#### Etat : Validé
+#### Concepteurs : Sarah LEROY (Kereval), Caroline DISTRIQUIN (CEA), Jules LOUAIL (Education Nationale)
+#### Evaluateurs : Sarah LEROY (Kereval), Caroline DISTRIQUIN (CEA), Florent VAUTION (Ouest France), Gil BURDALLET (BNP Paribas), Alain Ribault (Kereval)
 
 ---
 ## Prérequis

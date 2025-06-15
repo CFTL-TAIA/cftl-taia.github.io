@@ -9,6 +9,10 @@ Copier coller le dossier "Comment créer une fiche" contenant
 - Templace tache de prompt.md
 - \_category_.json
 
+:::warning
+En cours de rédaction
+:::
+
 ## Prompt pour mise en place d'un cas d'usage (inspiration)
 ``` 
 Conduis-toi comme un expert du domaine du test logiciel avec plusieurs années d’expérience et certifié ISTQB fondation.
