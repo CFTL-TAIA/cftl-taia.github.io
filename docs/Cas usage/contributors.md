@@ -70,12 +70,6 @@ sidebar_position: 1
 
 ---
 
-#### Pierick Njila (Zenity)
-
-![Pierick Njila](/img/contributeur/Photo-Pierick-150x150.jpeg) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/pierick-njila-a4b40b58/)
-
----
-
 ## Contributions aux ateliers de préparations
 
 #### Alexis Todoskoff (Polytech angers)
