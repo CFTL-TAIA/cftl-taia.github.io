@@ -87,7 +87,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/category/Tutoriel',
+            to: '/docs/TutorielJFTL/Welcome',
             sidebarId: 'tutorialSidebar',
             label: 'Tutoriel JFTL 2025',
             position: 'left',

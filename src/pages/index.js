@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/Tutoriel">
+            to="/docs/TutorielJFTL/welcome">
             TUTORIEL JFTL 2025
           </Link>
         </div>
