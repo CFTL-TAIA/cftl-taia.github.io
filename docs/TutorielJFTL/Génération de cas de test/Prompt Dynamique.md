@@ -68,7 +68,7 @@ ou concis (uniquement les résultats de l’étape 11 : liste consolidée des ti
 #### Date : 04/06/2025
 #### Etat : Validé
 #### Concepteurs : Etienne Dufour (AXA France)
-#### Evaluateurs : Evaluation par LLM (LLM as a judge)
+#### Evaluateurs : Etienne DUFOUR (AXA France), David JAMES (AXA France), Jean-Christophe POUTET (Groupe La Poste), Stanislas SELLE (Groupe La Poste)
 
 ---
 ## Prérequis
