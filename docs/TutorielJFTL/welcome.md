@@ -34,6 +34,12 @@ Toutes les ressources du tutoriel sont disponibles ici :
 👉 [Lien vers le troisième atelier : Génération de tests API automatisés](/docs/TutorielJFTL/Génération%20de%20tests%20automatisés/Cas%20usage.md)
 👉 [Lien vers la user story utilisée](/docs/TutorielJFTL/US%20Tutoriel.md)  
 
+#### Accès aux LLM
+
+- compar:IA - https://www.comparia.beta.gouv.fr
+- LMArena - https://lmarena.ai/  
+- Instance Librechat - https://librechat-production-b1fe.up.railway.app
+
 #### Les contributeurs TAIA
 👉 [Ils ont contribués à TAIA](/docs/Cas%20usage/contributors.md)  
 
