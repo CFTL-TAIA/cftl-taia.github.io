@@ -10,7 +10,11 @@ Copier coller le dossier "Comment créer une fiche" contenant
 - \_category_.json
 
 :::warning
-En cours de rédaction
+Les processus de participation communautaire sont en cours de création.
+
+N'hésitez pas à consulter le Readme du **[Github Cftl-Taia](https://github.com/CFTL-TAIA/cftl-taia.github.io)**
+
+Ou nous envoyer un email : **cftl.taia@gmail.com**
 :::
 
 ## Prompt pour mise en place d'un cas d'usage (inspiration)

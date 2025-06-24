@@ -4,6 +4,11 @@ sidebar_position: 0
 
 # Welcome
 
+:::warning
+Cette page a été crée dans le cadre d'un tutoriel pour les [JFTL 2025](https://cftl.fr/actualites/jftl/) du 16 juin 2025.
+
+Les informations et liens sont susceptibles d'avoir changé depuis cette date.
+:::
 
 :::info
 **Bonjour et bienvenue sur la documentation du tutoriel des JFTL 2025**
@@ -29,9 +34,9 @@ Toutes les ressources du tutoriel sont disponibles ici :
 👉 **[Lien vers le support de présentation (PDF)](/file/TUTORIEL%20-%20TAIA%20-%20Tester%20avec%20IA%20-%2016052025.pdf)**  
 
 #### Les ateliers
-👉 [Lien vers le premier atelier : Analyse des user stories](/docs/TutorielJFTL/Analyse%20des%20User%20Stories/Cas%20usage.md)  
-👉 [Lien vers le second atelier : Génération de cas de tests](/docs/TutorielJFTL/Génération%20de%20cas%20de%20test/Cas%20usage.md)   
-👉 [Lien vers le troisième atelier : Génération de tests API automatisés](/docs/TutorielJFTL/Génération%20de%20tests%20automatisés/Cas%20usage.md)
+👉 [Lien vers le premier atelier : Analyse des user stories](/docs/Cas%20usage/Analyse%20des%20User%20Stories/Cas%20usage.md)  
+👉 [Lien vers le second atelier : Génération de cas de tests](/docs/Cas%20usage/Génération%20de%20cas%20de%20test/Cas%20usage.md)   
+👉 [Lien vers le troisième atelier : Génération de tests API automatisés](/docs/Cas%20usage/Génération%20de%20tests%20automatisés/Cas%20usage.md)
 👉 [Lien vers la user story utilisée](/docs/TutorielJFTL/US%20Tutoriel.md)  
 
 #### Accès aux LLM

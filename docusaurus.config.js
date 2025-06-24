@@ -87,27 +87,27 @@ const config = {
         },
         items: [
           {
-            to: '/docs/TutorielJFTL/Welcome',
-            sidebarId: 'tutorialSidebar',
-            label: 'Tutoriel JFTL 2025',
-            position: 'left',
-          },
-          {
             to: '/docs/category/cas-dusage',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'SidebarTAIA',
             label: 'Cas d\'usages',
             position: 'left',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'SidebarTAIA',
             position: 'left',
             label: 'Documentation',
+            to: '/docs/category/comment-créer-une-fiche-cas-dusage',
           },      
           {
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'SidebarTAIA',
             label: 'Enquête IA 2024',
             href: 'https://cftl.fr/actualites/jtia-2/',
+            position: 'left',
+          },
+          {
+            to: '/docs/contributors',
+            sidebarId: 'SidebarTAIA',
+            label: 'Contributeurs',
             position: 'left',
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},
@@ -130,30 +130,23 @@ const config = {
               },
             ],
           },
-          /*{
-            title: 'Community',
+          {
+            title: 'Communauté',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'CFTL',
+                href: 'https://cftl.fr/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Nous contacter',
+                href: 'mailto:cftl.taia@gmail.com',
               },
             ],
-          },*/
+          },
           {
             title: 'More',
             items: [
-              /*{
-                label: 'Blog',
-                to: '/blog',
-              },*/
+
               {
                 label: 'GitHub',
                 href: 'https://github.com/'+organizationName+'/'+projectName,
@@ -161,6 +154,10 @@ const config = {
               {
                 label: 'Licence CC-BY-SA-4.0',
                 href: 'https://creativecommons.org/licenses/by-sa/4.0/deed.fr',
+              },
+              {
+                label: 'Tutoriel JFTL 2025',
+                to: '/docs/TutorielJFTL/Welcome',
               },
             ],
           },
