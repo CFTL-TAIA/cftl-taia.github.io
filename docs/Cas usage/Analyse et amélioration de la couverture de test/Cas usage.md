@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Analyse et amélioration de la couverture de test
+# Cas d'usage
 
 <span style={{color: "red"}}>**IN PROGRESS - A RELIRE**</span>
 
