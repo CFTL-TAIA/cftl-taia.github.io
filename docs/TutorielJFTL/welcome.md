@@ -46,7 +46,7 @@ Toutes les ressources du tutoriel sont disponibles ici :
 - Instance Librechat - https://librechat-production-b1fe.up.railway.app
 
 #### Les contributeurs TAIA
-👉 [Ils ont contribués à TAIA](/docs/Cas%20usage/contributors.md)  
+👉 [Ils ont contribués à TAIA](/docs/contributors.md)  
 
 N’hésitez pas à explorer ces documents pendant et après la session !
 
