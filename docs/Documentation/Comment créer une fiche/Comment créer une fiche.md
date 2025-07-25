@@ -7,6 +7,7 @@ sidebar_position: 1
 
 :::warning
 Les processus de participation communautaire sont en cours de création.
+:::
 
 Merci de votre intérêt pour contribuer à notre site ! 🎉
 Notre site est hébergé sur **GitHub Pages**. Pour proposer une modification ou une amélioration, vous devez passer par une **Pull Request (PR)**.
