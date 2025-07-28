@@ -1,0 +1,8 @@
+{
+  "label": "Génération de tests automatisés api playwright",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Utilisation de l'IA pour générer des tests automatisés pour une api à partir de son swagger et en utilisant playwright"
+  }
+}
