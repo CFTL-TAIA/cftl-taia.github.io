@@ -73,7 +73,7 @@ git clone https://github.com/votrecompte/cftl-taia.github.io
 - Rendez vous dans le dossier "docs\Cas usage"
 - Créez un dossier correspondant à votre cas d'usage
   - Evitez les caractères spéciaux au maximum
-- Dans ce dossier, copier les Templates disponible dans "Documentation\Comment créer une fiche"
+- Dans ce dossier, copier les Templates disponible dans "docs\Documentation\Comment créer une fiche"
   - cas d'usage.md
   - Prompt.md
   - \_category_.json
