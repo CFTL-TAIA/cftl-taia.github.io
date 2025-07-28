@@ -9,6 +9,11 @@ sidebar_position: 1
 Les processus de participation communautaire sont en cours de création.
 :::
 
+:::info
+Si vous êtes un Validateur CFTL TAIA, merci de vous référer au clone du projet
+ **[Github Cftl-Taia](https://github.com/CFTL-TAIA/cftl-taia.github.io)**
+:::
+
 Merci de votre intérêt pour contribuer à notre site ! 🎉
 Notre site est hébergé sur **GitHub Pages**. Pour proposer une modification ou une amélioration, vous devez passer par une **Pull Request (PR)**.
 
@@ -16,7 +21,7 @@ Ce guide vous accompagne étape par étape, même si vous êtes débutant.
 
 ---
 
-## ✅ 1. Créer un compte GitHub
+## 📘 1. Créer un compte GitHub
 
 Si vous n'avez pas encore de compte GitHub :
 
@@ -26,7 +31,7 @@ Si vous n'avez pas encore de compte GitHub :
 
 ---
 
-## ✅ 2. Accéder au dépôt du site
+## 📘 2. Accéder au dépôt du site
 
 Connectez-vous à GitHub puis rendez-vous ici :
 
@@ -34,7 +39,7 @@ Connectez-vous à GitHub puis rendez-vous ici :
 
 ---
 
-## ✅ 3. Créer un fork du projet
+## 📘 3. Créer un fork du projet
 
 Comme vous ne pouvez pas modifier directement le projet, créez un fork (une copie personnelle) :
 
@@ -42,7 +47,7 @@ Comme vous ne pouvez pas modifier directement le projet, créez un fork (une cop
 2. Votre fork sera disponible à l'adresse : https://github.com/votrecompte/cftl-taia.github.io
 
 ---
-## ✅ 4. Modifier les fichiers
+## 📘 4. Modifier les fichiers
 
 ### ✏️ Modifier directement en ligne
 1. Ouvrez votre fork sur GitHub.
@@ -63,14 +68,65 @@ git clone https://github.com/votrecompte/cftl-taia.github.io
 
 ---
 
-# Créer une fiche cas d'usage avec  ses prompts
+## 📝 Créer un cas d'usage et ses prompts
 
-- Copier coller le dossier "Comment créer une fiche" contenant 
-  - Template cas d'usage.md
-  - Templace tache de prompt.md
+- Rendez vous dans le dossier "docs\Cas usage"
+- Créez un dossier correspondant à votre cas d'usage
+  - Evitez les caractères spéciaux au maximum
+- Dans ce dossier, copier les Templates disponible dans "Documentation\Comment créer une fiche"
+  - cas d'usage.md
+  - Prompt.md
   - \_category_.json
 
-- Remplir les fiches avec un titre parlant et les informations demandés
+## 📝 Remplir cas d'usage et prompts
+- Remplir les fiches avec un titre pertinent et significatifs et les informations demandées
+  - Cas d'usage : Les informations sont documentés dans le template 
+    - Vous pouvez utiliser le prompt suivant pour remplir votre cas d'usage (attention à bien relire)
+  - Prompt : Remplissez les informations présentes dans le document
+    - Pensez à bien mettre votre prompt entre balise ``` pour les afficher sans style
+    - Il se peut que vous ayez des caractères à échapper, n'oubliez pas de tests votre cas d'usage en local 
+
+### Prompt pour mise en place d'un cas d'usage (inspiration)
+``` 
+Conduis-toi comme un expert du domaine du test logiciel avec plusieurs années d’expérience et certifié ISTQB fondation.
+j'ai un template de cas d'usage de l'IA générative qui correspond à cela :
+ 
+ ***Template fiche cas d'usage***
+
+ # Titre / Description
+ ## Description
+ ## Fiche d'identité du cas d'usage
+ ### Problématique(s) traitée(s) 
+ ---
+ ### Groupe d’activité de test ISTQB 
+ ---
+ ### Types de tests 
+ ---
+ ### Métier / Profil
+ ---
+ ### Bénéfices attendus / constatés (Méthode d’évaluation du ROI)
+ ---
+ ### Evaluation du ROI
+ ---
+ ### Risques
+ ---
+ ### Ressources 
+ ---
+ ### Références
+ ---
+ 
+*** Fin du template ***
+
+Peux tu me faire une proposition correspondant à ce template pour ce cas d'usage en format Markdown : [CAS D'USAGE]
+
+```
+
+## 📝 Remplir le fichier \_category_.json
+
+- Indiquez le label du dossier qui s'affichera dans le menu
+- Rajouter une description simple du cas d'usage
+- La position correspond à l'affichage dans le menu de votre cas d'usage
+  - Merci de l'incrémenter du nombre de cas d'usage déjà présent.
 
 ---
 
@@ -110,48 +166,10 @@ Consultez l'onglet **Pull Requests** :
 
 ---
 
-✉️ **Besoin d'aide ?**  
+## ✉️ **Besoin d'aide ?**  
 Ouvrez une *issue* ici : [https://github.com/CFTL-TAIA/cftl-taia.github.io/issues](https://github.com/CFTL-TAIA/cftl-taia.github.io/issues)
-
-Merci pour vos contributions ! 💙
-
-
-N'hésitez pas à consulter le Readme du **[Github Cftl-Taia](https://github.com/CFTL-TAIA/cftl-taia.github.io)**
 
 Ou nous envoyer un email : **cftl.taia@gmail.com**
 
+Merci pour vos contributions ! 💙
 
-## Prompt pour mise en place d'un cas d'usage (inspiration)
-``` 
-Conduis-toi comme un expert du domaine du test logiciel avec plusieurs années d’expérience et certifié ISTQB fondation.
-j'ai un template de cas d'usage de l'IA générative qui correspond à cela :
- 
- ***Template fiche cas d'usage***
-
- # Titre / Description
- ## Description
- ## Fiche d'identité du cas d'usage
- ### Problématique(s) traitée(s) 
- ---
- ### Groupe d’activité de test ISTQB 
- ---
- ### Types de tests 
- ---
- ### Métier / Profil
- ---
- ### Bénéfices attendus / constatés (Méthode d’évaluation du ROI)
- ---
- ### Evaluation du ROI
- ---
- ### Risques
- ---
- ### Ressources 
- ---
- ### Références
- ---
- 
-*** Fin du template ***
-
-Peux tu me faire une proposition correspondant à ce template pour ce cas d'usage en format Markdown : [CAS D'USAGE]
-
-``` 

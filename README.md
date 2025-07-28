@@ -3,10 +3,15 @@
 Bienvenue sur le dépôt du groupe de travail CFTL sur l’IA et le test logiciel.  
 Ce site collaboratif vise à partager des cas d’usage, des prompts, des retours d’expérience et des ressources autour de l’IA appliquée au test.
 
+:::warning 
+Cette documentation est à destination des validateurs TAIA pour le clone.
+Si vous êtes un contributeur TAIA, [merci de lire la documentation sur le site.](https://cftl-taia.github.io/docs/Documentation/Comment%20cr%C3%A9er%20une%20fiche)
+:::
+
 ## 🚀 Accès au site
 
 Le site est disponible à l’adresse :  
-[https://cftl-taia.github.io/   ](https://cftl-taia.github.io/)
+[https://cftl-taia.github.io/](https://cftl-taia.github.io/)
 
 ## 📚 Structure du projet
 
