@@ -5,7 +5,9 @@ Ce site collaboratif vise à partager des cas d’usage, des prompts, des retour
 
 
 **ATTENTION**
-Cette documentation est à destination des validateurs TAIA pour le clone.
+
+Cette documentation est à destination des validateurs TAIA, qui devront cloner le projet.
+
 Si vous êtes un contributeur TAIA, [merci de lire la documentation sur le site.](https://cftl-taia.github.io/docs/Documentation/Comment%20cr%C3%A9er%20une%20fiche)
 
 ## 🚀 Accès au site
