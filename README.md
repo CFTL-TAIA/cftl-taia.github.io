@@ -26,7 +26,7 @@ Le site est disponible à l’adresse :
 
 Nous accueillons toutes les contributions : documentation, exemples, prompts, corrections, etc.
 
-### 1. Fork & clone le dépôt
+### 1. Clone le dépôt
 
 ```bash
 git clone https://github.com/CFTL-TAIA/cftl-taia.github.io.git
