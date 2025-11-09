@@ -91,17 +91,17 @@ const config = {
             sidebarId: 'SidebarTAIA',
             label: 'Cas d\'usages',
             position: 'left',
+          },  
+          {
+            sidebarId: 'SidebarTAIA',
+            label: 'JTIA 2025',
+            href: 'https://cftl.fr/actualites/jtia-2/',
+            position: 'left',
           },
           {
             sidebarId: 'SidebarTAIA',
-            position: 'left',
-            label: 'Documentation',
-            to: '/docs/category/comment-créer-une-fiche-cas-dusage',
-          },      
-          {
-            sidebarId: 'SidebarTAIA',
-            label: 'Enquête IA 2024',
-            href: 'https://cftl.fr/actualites/jtia-2/',
+            label: 'Enquête IA 2025',
+            href: 'https://docs.google.com/forms/d/e/1FAIpQLSddx2tJvI9_nEsq57fb2DQYv8DWiyZvTlvgslUXP-GIzWWEQQ/viewform',
             position: 'left',
           },
           {
