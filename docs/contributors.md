@@ -4,23 +4,76 @@ sidebar_position: 1
 
 # Contributeurs TAIA
 
-## Core Team Tutoriel
+## Core Team Tutoriel JTIA 2025
+
+### Enquête IA 2025 & Analyse
+
+#### Alexis Todoskoff (Polytech angers) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/alexis-todoskoff/)
+![Alexis Todoskoff](/img/contributeur/alexis_150x150.jpg) 
+
+#### Bruno Legeard (Smartesting) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/brunolegeard/)
+![Bruno Legeard](/img/contributeur/Bruno-Legeard-2-150x150.jpg) 
+
+---
+### L'IA au service du test
+
+#### Michael Granier (Nocode-Testing) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/michael-granier/)
+![Michael Granier](/img/contributeur/Michael_Granier-2-150x150.jpg) 
+
+#### Caroline Distriquin (CEA) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/caroline-distriquin-50947543/)
+![Caroline Distriquin](/img/contributeur/Caroline-Distriquin.jpg) 
+
+#### Florent Vaution (Ouest-France)[![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/florentvaution/)
+![Florent Vaution](/img/contributeur/Florent_150x150_vivatech.jpg) 
+
+#### Jules Louail (Education Nationale) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/jules-louail-181777200/)
+
+#### Yann Helleboid (Orange)
+![Yann Helleboid](/img/contributeur/Yann_150x150.jpg)
+
+#### Frédéric Assante di Capillo (SII) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/frederic-assante-di-capillo-46a0b785/)
+![Frédéric Assante di Capillo](/img/contributeur/fred_150x150.jpg)
+
+---
+### Comment avoir confiance dans un outil de génération de tests automatiques ?
+
+#### Alain Ribault (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/alainribault/)
+![Alain Ribault](/img/contributeur/Alain-Ribault-150x150.jpg) 
+
+#### Alain Ribault (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/clement-francois-datascience/)
+![Clément François](/img/contributeur/clement_150x150.jpg) 
+
+#### Pierick Njila (Zenity) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/pierick-njila-a4b40b58/)
+![Pierick Njila](/img/contributeur/Photo-Pierick-150x150.jpeg) 
+
+---
+### Spéciale dédicaces et remerciements
+
+#### Nabil Idhammou (Onepoint) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/nabil-i-74552a69/)
+![Nabil Idhammou](/img/contributeur/Nabil-Idhammou-150x150.jpg) 
+
+---
+#### Sarah Leroy (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/sarah-leroy-269559181/)
+
+---
+
+## Core Team Tutoriel JFTL 2025
 
 #### Bruno Legeard (Smartesting)
 
-![Bruno Legeard](/img/contributeur/Bruno-Legeard-2-150x150.jpg.webp) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/brunolegeard/)
+![Bruno Legeard](/img/contributeur/Bruno-Legeard-2-150x150.jpg) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/brunolegeard/)
 
 ---
 
 #### Etienne Dufour (AXA France)
 
-![Etienne Dufour](/img/contributeur/Etienne-Dufour-150x150.jpg.webp) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/etiennedufour/)
+![Etienne Dufour](/img/contributeur/Etienne-Dufour-150x150.jpg) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/etiennedufour/)
 
 ---
 
 #### Michael Granier (Nocode-Testing)
 
-![Michael Granier](/img/contributeur/Michael_Granier-2-150x150.jpg.webp) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/michael-granier/)
+![Michael Granier](/img/contributeur/Michael_Granier-2-150x150.jpg) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/michael-granier/)
 
 ---
 #### David James (AXA France)

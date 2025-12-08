@@ -100,8 +100,14 @@ const config = {
           },
           {
             sidebarId: 'SidebarTAIA',
-            label: 'Enquête IA 2025',
-            href: 'https://docs.google.com/forms/d/e/1FAIpQLSddx2tJvI9_nEsq57fb2DQYv8DWiyZvTlvgslUXP-GIzWWEQQ/viewform',
+            label: 'Enquête IA 2024',
+            href: 'https://cftl.fr/wp-content/uploads/2025/01/CFTL-Enquete-IA-2024-1.pdf',
+            position: 'left',
+          },
+                    {
+            sidebarId: 'SidebarTAIA',
+            label: 'Enquête IA 2025 (à venir)',
+            href: 'https://cftl.fr/cf-tl/ressources/',
             position: 'left',
           },
           {
