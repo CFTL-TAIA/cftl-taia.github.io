@@ -3,12 +3,15 @@ sidebar_position: 2
 ---
 
 # Cas d'usage
-Utilisation de l’IA pour l’Analyse de la Qualité des User Stories & la Génération des cas de tests
+Evaluation de la génération de tests à partir d'un swagger
 
 ---
 ## Fiche d'identité du cas d'usage
-**Auteurs** : Caroline Distriquin (CEA) - Florent Vaution (Ouest-France) - Jules Louail (Education nationale) - Sarah Leroy (Kereval)
-**Relecteur** : Yann Helleboid (Orange) - Frédéric Assante Di capillo (Sii) - Michael Granier (Nocode Testing)
+
+**Auteurs** : Caroline Distriquin (CEA) - Florent Vaution (Ouest-France) - Jules Louail (Education nationale) - Sarah Leroy (Kereval)  
+
+**Relecteur** : Yann Helleboid (Orange) - Frédéric Assante Di capillo (Sii) - Michael Granier (Nocode Testing)  
+
 ---
 ## Description du cas d'usage
 Assistance par IA à l’analyse de la qualité des user stories selon des critères standardisés (INVEST, BABOK, IEEE830, IREB, etc.) dans un contexte Agile Scrum.

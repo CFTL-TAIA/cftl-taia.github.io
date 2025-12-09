@@ -4,6 +4,8 @@ sidebar_position: 0
 
 # Welcome
 
+## Evaluation de la génération de tests à partir d'un swagger !
+
 :::info
 **Bonjour et bienvenue sur la documentation du tutoriel des JTIA 2025**
 
@@ -28,14 +30,11 @@ Toutes les ressources du tutoriel sont disponibles ici :
 👉 **[Lien vers le support de présentation (PDF)](/file/TUTORIEL%20-%20TAIA%20-%20Tester%20avec%20IA%20-%2016052025.pdf)** **- A METTRE A JOUR**  
 
 #### Les ateliers
-👉 [Lien vers la première étape : Analyse des user stories](/docs/TutorielJTIA2025/Analyse%20US)  
-👉 [Lien vers la seconde étape : Génération de cas de tests](/docs/TutorielJTIA2025/Création%20cas%20test)   
-👉 [Lien vers la troisième étape : Consolidation ](/docs/TutorielJTIA2025/Consolidation)
-👉 [Lien vers la user story utilisée](/docs/TutorielJTIA2025/US%20Tutoriel)  
+👉 [Lien vers XXXXXXXX](/docs/TutorielJTIA2025-Groupe2/PROMPT)  
 
 #### Accès aux LLM
 
-👉 [Liste de LLM possible à utiliser](/docs/TutorielJTIA2025/LLM)
+👉 [Liste de LLM possible à utiliser](/docs/TutorielJTIA2025-Groupe2/LLM)
 
 #### Les contributeurs TAIA
 👉 [Ils ont contribués à TAIA](/docs/contributors.md)  
