@@ -8,9 +8,9 @@ Utilisation de l’IA pour l’Analyse de la Qualité des User Stories & la Gén
 ---
 ## Fiche d'identité du cas d'usage
 
-**Auteurs** : Caroline Distriquin (CEA) - Florent Vaution (Ouest-France) - Jules Louail (Education nationale) - Sarah Leroy (Kereval)  
+**Auteurs** : Caroline Distriquin (CEA) - Florent Vaution (Ouest-France) - Jules Louail (Inetum) - Sarah Leroy (Kereval)  
 
-**Relecteur** : Yann Helleboid (Orange) - Frédéric Assante Di capillo (Sii) - Michael Granier (Nocode Testing)  
+**Relecteur** : Yann Helleboid (Orange) - Frédéric Assante Di Capillo (Sii) - Michael Granier (Nocode Testing)  
 
 ---
 ## Description du cas d'usage
@@ -32,6 +32,7 @@ Assistance par IA à l’analyse de la qualité des user stories selon des crit�
 ## Types de tests
 - Tests d’acceptation
 - Tests fonctionnels
+- Tests non fonctionnels
 - Tests de validation des exigences
 
 ---
