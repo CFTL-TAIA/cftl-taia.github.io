@@ -40,7 +40,7 @@ sidebar_position: 1
 #### Alain Ribault (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/alainribault/)
 ![Alain Ribault](/img/contributeur/Alain-Ribault-150x150.jpg) 
 
-#### Alain Ribault (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/clement-francois-datascience/)
+#### Clément François (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/clement-francois-datascience/)
 ![Clément François](/img/contributeur/clement_150x150.jpg) 
 
 #### Pierick Njila (Zenity) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/pierick-njila-a4b40b58/)

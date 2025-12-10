@@ -130,15 +130,6 @@ STRATÉGIE DE TEST
    - Performance : [Outil]
    - Sécurité : [Outil]
 ```
-
----
-
-## USER STORY À ANALYSER
-
-
-
-
-
 ---
 
 ## DÉMARRAGE
