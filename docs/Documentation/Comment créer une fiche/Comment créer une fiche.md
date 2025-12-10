@@ -163,6 +163,7 @@ Consultez l'onglet **Pull Requests** :
 - [Aide officielle GitHub sur les forks](https://docs.github.com/fr/get-started/quickstart/fork-a-repo)
 - [Aide officielle GitHub sur les pull requests](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 - [Guide Markdown](https://www.markdownguide.org/basic-syntax/)
+- [github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ---
 

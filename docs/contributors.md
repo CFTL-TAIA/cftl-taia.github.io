@@ -26,7 +26,8 @@ sidebar_position: 1
 #### Florent Vaution (Ouest-France)[![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/florentvaution/)
 ![Florent Vaution](/img/contributeur/Florent_150x150_vivatech.jpg) 
 
-#### Jules Louail (Education Nationale) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/jules-louail-181777200/)
+#### Jules Louail (Inetum) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/jules-louail-181777200/)
+![Jules Louail](/img/contributeur/Jules-Louail.jpg)
 
 #### Yann Helleboid (Orange)
 ![Yann Helleboid](/img/contributeur/Yann_150x150.jpg)
@@ -51,6 +52,10 @@ sidebar_position: 1
 
 #### Nabil Idhammou (Onepoint) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/nabil-i-74552a69/)
 ![Nabil Idhammou](/img/contributeur/Nabil-Idhammou-150x150.jpg) 
+
+---
+#### Diana Maldjian (Onepoint) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/diana-maldjian-464033a6/)
+![Diana Maldjian](/img/contributeur/diana_maldjian.jpg) 
 
 ---
 #### Sarah Leroy (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/sarah-leroy-269559181/)

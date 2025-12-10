@@ -27,7 +27,7 @@ Il est organisé par le groupe de travail « Tester avec l'IA générative » du
 
 Toutes les ressources du tutoriel sont disponibles ici :
 
-👉 **[Lien vers le support de présentation (PDF)](/file/TUTORIEL%20-%20TAIA%20-%20Tester%20avec%20IA%20-%2016052025.pdf)** **- A METTRE A JOUR**  
+👉 **[Lien vers le support de présentation (PDF)](../../static/file/Tutoriel%20JTIA%2020251211%20-%20Atelier%20interactif%20-%20L'IA%20au%20service%20du%20test.pdf)** 
 
 #### Les ateliers
 👉 [Lien vers la première étape : Analyse des user stories](/docs/TutorielJTIA2025-Groupe1/Analyse%20US)  
@@ -46,7 +46,7 @@ N’hésitez pas à explorer ces documents pendant et après la session !
 
 ## 👉 Merci de répondre à ce questionnaire après l'atelier
 
-👉 [Lien vers le questionnaire](https://forms.gle/GErfu7SnAWhDQLWi7) **A METTRE A JOUR **
+👉 [Lien vers le questionnaire](https://forms.gle/fAZh41N3nNhyoDqy8)
 
 ## 🤝 Une démarche collaborative
 

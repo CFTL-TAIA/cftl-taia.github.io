@@ -27,10 +27,22 @@ Il est organisé par le groupe de travail « Tester avec l'IA générative » du
 
 Toutes les ressources du tutoriel sont disponibles ici :
 
-👉 **[Lien vers le support de présentation (PDF)](/file/TUTORIEL%20-%20TAIA%20-%20Tester%20avec%20IA%20-%2016052025.pdf)** **- A METTRE A JOUR**  
+👉 **[Lien vers le support de présentation (PDF)](../../static/file/JTIA%20décembre%202025%20-%20Evaluation%20de%20la%20génération%20de%20tests%20à%20partir%20d'un%20swagger.pdf)** 
 
-#### Les ateliers
-👉 [Lien vers XXXXXXXX](/docs/TutorielJTIA2025-Groupe2/PROMPT)  
+#### Accès aux prompts
+
+👉 [Lien vers prompt étape 1](/docs/Cas%20usage/G%C3%A9n%C3%A9ration%20de%20tests%20automatis%C3%A9s%20api%20karate/Prompt%20Karate#etape-1)  
+👉 [Lien vers prompt étape 2](/docs/Cas%20usage/G%C3%A9n%C3%A9ration%20de%20tests%20automatis%C3%A9s%20api%20karate/Prompt%20Karate#etape-2)  
+👉 [Lien vers prompt étape 3](/docs/Cas%20usage/G%C3%A9n%C3%A9ration%20de%20tests%20automatis%C3%A9s%20api%20karate/Prompt%20Karate#etape-3)  
+
+👉 [Lien vers Meta Prompt](/docs/TutorielJTIA2025-Groupe2/Meta%20Prompt.md)  
+👉 [Lien vers Prompt généré par Claude](/docs/TutorielJTIA2025-Groupe2/prompt_généré_par_Claude.md)
+
+#### Accès aux fichiers
+
+📂 [karate-petstore-project-ChatGPT](../../static/file/karate-petstore-project-ChatGPT.zip)  
+📂 [karate-petstore-project-Gemini](../../static/file/karate-petstore-project-Gemini.zip)  
+📂 [karate-petstore-project-Mistral](../../static/file/karate-petstore-project-Mistral.zip)  
 
 #### Accès aux LLM
 
@@ -43,7 +55,7 @@ N’hésitez pas à explorer ces documents pendant et après la session !
 
 ## 👉 Merci de répondre à ce questionnaire après l'atelier
 
-👉 [Lien vers le questionnaire](https://forms.gle/GErfu7SnAWhDQLWi7) **A METTRE A JOUR **
+👉 [Lien vers le questionnaire](...) **A METTRE A JOUR **
 
 ## 🤝 Une démarche collaborative
 
