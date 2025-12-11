@@ -55,7 +55,7 @@ N’hésitez pas à explorer ces documents pendant et après la session !
 
 ## 👉 Merci de répondre à ce questionnaire après l'atelier
 
-👉 [Lien vers le questionnaire](...) **A METTRE A JOUR **
+👉 [Lien vers le questionnaire](https://forms.gle/JUtRuTf8awHo4Xkg9)
 
 ## 🤝 Une démarche collaborative
 
