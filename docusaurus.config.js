@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import webpack from 'webpack';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -16,6 +17,23 @@ const config = {
   title: 'TAIA - Tester avec l\'IA',
   tagline: 'Groupe de travail du CFTL sur l\'IA et le test',
   favicon: 'img/favicon.ico',
+
+  plugins: [
+    function ensureDevHmrPlugin() {
+      return {
+        name: 'ensure-dev-hmr-plugin',
+        configureWebpack(_config, isServer) {
+          if (process.env.NODE_ENV !== 'development' || isServer) {
+            return undefined;
+          }
+
+          return {
+            plugins: [new webpack.HotModuleReplacementPlugin()],
+          };
+        },
+      };
+    },
+  ],
 
   // Set the production url of your site here
   url: 'https://'+organizationName+'+.github.io',
@@ -91,7 +109,13 @@ const config = {
             sidebarId: 'SidebarTAIA',
             label: 'Cas d\'usages',
             position: 'left',
-          },  
+          },
+          {
+            sidebarId: 'SidebarTAIA',
+            label: 'JFTL 2026',
+            href: 'https://cftl.fr/actualites/jftl/',
+            position: 'left',
+          },
           {
             sidebarId: 'SidebarTAIA',
             label: 'JTIA 2025',
@@ -106,8 +130,8 @@ const config = {
           },
                     {
             sidebarId: 'SidebarTAIA',
-            label: 'Enquête IA 2025 (à venir)',
-            href: 'https://cftl.fr/cf-tl/ressources/',
+            label: 'Enquête IA 2025',
+            href: 'https://cftl.fr/wp-content/uploads/2025/12/Enquete-2025-Test-IA-generative.pdf',
             position: 'left',
           },
           {

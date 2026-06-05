@@ -35,8 +35,8 @@ Toutes les ressources du tutoriel sont disponibles ici :
 👉 [Lien vers prompt étape 2](/docs/Cas%20usage/G%C3%A9n%C3%A9ration%20de%20tests%20automatis%C3%A9s%20api%20karate/Prompt%20Karate#etape-2)  
 👉 [Lien vers prompt étape 3](/docs/Cas%20usage/G%C3%A9n%C3%A9ration%20de%20tests%20automatis%C3%A9s%20api%20karate/Prompt%20Karate#etape-3)  
 
-👉 [Lien vers Meta Prompt](/docs/TutorielJTIA2025-Groupe2/Meta%20Prompt.md)  
-👉 [Lien vers Prompt généré par Claude](/docs/TutorielJTIA2025-Groupe2/prompt_généré_par_Claude.md)
+👉 [Lien vers Meta Prompt](/docs/TutorielArchives/TutorielJTIA2025-Groupe2/Meta%20Prompt.md)  
+👉 [Lien vers Prompt généré par Claude](/docs/TutorielArchives/TutorielJTIA2025-Groupe2/prompt_généré_par_Claude.md)
 
 #### Accès aux fichiers
 

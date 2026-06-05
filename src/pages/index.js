@@ -20,16 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/TutorielJTIA2025-Groupe1/welcome">
-            JTIA 2025 - L'IA au service du test
-          </Link>
-        </div>
-        <br></br>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/TutorielJTIA2025-Groupe2/welcome">
-            JTIA 2025 - Evaluation de la génération de tests à partir d'un swagger
+            to="/docs/TutorielJFTL2026/welcome">
+            JFTL 2026 - Du test augmenté à l’agent IA : explorez une nouvelle façon de tester
           </Link>
         </div>
         <br></br>

@@ -4,6 +4,47 @@ sidebar_position: 1
 
 # Contributeurs TAIA
 
+## Du test augmenté à l’agent IA : explorez une nouvelle façon de tester
+
+### Core Team Tutoriel JFTL 2026 
+
+### Groupe 1 : Stratégie de test
+
+#### Michael Granier (Nocode-Testing) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/michael-granier/)
+![Michael Granier](/img/contributeur/Michael_Granier-2-150x150.jpg) 
+
+#### Nabil Idhammou (Onepoint) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/nabil-i-74552a69/)
+![Nabil Idhammou](/img/contributeur/Nabil-Idhammou-150x150.jpg) 
+
+#### Frédéric Assante di Capillo (SII) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/frederic-assante-di-capillo-46a0b785/)
+![Frédéric Assante di Capillo](/img/contributeur/fred_150x150.jpg)
+
+### Groupe 2 : Revue des US et création de cas de tests
+
+#### Caroline Distriquin (CEA) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/caroline-distriquin-50947543/)
+![Caroline Distriquin](/img/contributeur/Caroline-Distriquin.jpg) 
+
+#### Florent Vaution (Ouest-France)[![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/florentvaution/)
+![Florent Vaution](/img/contributeur/Florent_150x150_vivatech.jpg) 
+
+### Groupe 3 : Automatisation des tests
+
+#### Alain Ribault (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/alainribault/)
+![Alain Ribault](/img/contributeur/Alain-Ribault-150x150.jpg) 
+
+#### Eliott Paillard (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/eliott-paillard-a0a19812a/)
+![Eliott Paillard](/img/contributeur/Eliott-Paillard-150x150.jpg) 
+
+#### Yann Helleboid (Orange)
+![Yann Helleboid](/img/contributeur/Yann_150x150.jpg)
+
+#### Sarah Leroy (Kereval) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/sarah-leroy-269559181/)
+![Sarah Leroy](/img/contributeur/Sarah-Leroy-150x150.jpg) 
+
+#### Pierick Njila (Zenity) [![Linkedin](/img/contributeur/In-Blue-21.png)](https://www.linkedin.com/in/pierick-njila-a4b40b58/)
+![Pierick Njila](/img/contributeur/Photo-Pierick-150x150.jpeg) 
+
+
 ## Core Team Tutoriel JTIA 2025
 
 ### Enquête IA 2025 & Analyse

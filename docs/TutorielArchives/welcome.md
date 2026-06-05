@@ -37,7 +37,7 @@ Toutes les ressources du tutoriel sont disponibles ici :
 👉 [Lien vers le premier atelier : Analyse des user stories](/docs/Cas%20usage/Analyse%20des%20User%20Stories/Cas%20usage.md)  
 👉 [Lien vers le second atelier : Génération de cas de tests](/docs/Cas%20usage/Génération%20de%20cas%20de%20test/Cas%20usage.md)   
 👉 [Lien vers le troisième atelier : Génération de tests API automatisés](/docs/Cas%20usage/Génération%20de%20tests%20automatisés%20api%20karate/Cas%20usage)
-👉 [Lien vers la user story utilisée](/docs/TutorielJFTL/US%20Tutoriel.md)  
+👉 [Lien vers la user story utilisée](/docs/TutorielArchives/US%20Tutoriel.md)  
 
 #### Accès aux LLM
 
