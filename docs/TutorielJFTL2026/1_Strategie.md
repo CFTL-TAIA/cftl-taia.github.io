@@ -3,7 +3,8 @@ sidebar_position: 3
 ---
 
 # 1 - Stratégie de test
-Utilisation de l’IA pour créer un outil permettant de générer une application afin de générer une stratégie de test adaptée à son contexte projet
+
+Utilisation des agents IA pour créer un outil permettant de générer une application afin de générer une stratégie de test adaptée à son contexte projet
 
 ## PROMPT à intégrer à votre outil IA
 
