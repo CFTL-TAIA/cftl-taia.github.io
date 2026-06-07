@@ -29,7 +29,7 @@ Il est organisé par le groupe de travail « Tester avec l'IA générative » du
 
 Toutes les ressources du tutoriel sont disponibles ici :
 
-👉 **[Lien vers le support de présentation (PDF)](../../static/file/incoming.pdf)**
+👉 **[Lien vers le support de présentation (PDF)](../../static/file/JFTL%202026%20-%20Du%20test%20augmenté%20à%20l’agent%20IA%20%20%20explorez%20une%20nouvelle%20façon%20de%20tester.pdf)**
 
 ### Site de test : Programme JFTL
 
